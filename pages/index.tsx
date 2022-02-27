@@ -4,7 +4,6 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Desktop from '../public/pattern-divider-desktop.svg'
 import Mobile from '../public/pattern-divider-mobile.svg'
-import Logo from '../public/logo.svg'
 import Dice from '../public/icon-dice.svg'
 import styles from '../styles/Home.module.css'
 
