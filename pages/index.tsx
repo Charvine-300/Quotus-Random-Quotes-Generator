@@ -35,6 +35,7 @@ const Home = ({slip}: QuoteProps) => {
       <Head>
         <title>Quotus | Random Quote Generator </title>
         <meta name="description" content="A web application that generates random quotes" />
+        <link rel="apple-touch-icon" sizes="32x32" href="/logo.svg" />
         <link rel="icon" href="/logo.svg" />
       </Head>
 
